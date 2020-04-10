@@ -14,5 +14,10 @@
   },
   "homepage": "https://github.com/franciscpd/js-tdd#readme",
   "author": "Francisross Soares de Oliveira <franciscpd@gmail.com> (https://franciscpd.dev/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
 }
