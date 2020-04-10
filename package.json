@@ -1,0 +1,18 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Course jss with tdd",
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "main": "index.js",
+  "repository": "git@github.com:franciscpd/js-tdd.git",
+  "bugs": {
+    "url": "https://github.com/franciscpd/js-tdd/issues"
+  },
+  "homepage": "https://github.com/franciscpd/js-tdd#readme",
+  "author": "Francisross Soares de Oliveira <franciscpd@gmail.com> (https://franciscpd.dev/)",
+  "license": "MIT"
+}
